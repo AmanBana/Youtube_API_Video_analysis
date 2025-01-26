@@ -1,4 +1,4 @@
-# Youtube_API_Video_analysis
+# YouTube Channel Insights
 YouTube Data API | Data Analysis and Visualization
 
 **Project Overview**
